@@ -1,0 +1,10 @@
+*__pycache__*
+*.png
+*.json
+*.zip
+*.flac
+*.pt
+*.pkl
+scores/*/*.txt
+scores/*.tsv
+outputs/*

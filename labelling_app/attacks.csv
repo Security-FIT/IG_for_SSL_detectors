@@ -1,0 +1,17 @@
+ID,Type,Algorithm
+A17,TTS,ZMM-TTS
+A18,TTS+AA,ZMM-TTS+Malafide
+A19,TTS,MaryTTS
+A20,TTS+AA,In-house unit select TTS+Malafide
+A21,TTS,ToucanTTS+BigVGAN
+A22,TTS,variant of ToucanTTS
+A23,TTS+AA,ToucanTTS+Malafide
+A24,VC,In-house ASR-based VC
+A25,VC,DiffVC
+A26,VC,In-house ASR-based VC+original genuine noise
+A27,VC+AA,In-house ASR-based VC+original genuine noise+Malacopula
+A28,TTS,Pre-trained YourTTS
+A29,TTS,Pre-trained XTTS
+A30,TTS+AA,ZMM-TTS+Malafide+Malacopula
+A31,TTS+AA,variant of ToucanTTS+Malacopula
+A32,VC+AA,DiffVC+Malacopula

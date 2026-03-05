@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+librosa
+soundfile
+matplotlib
+captum
+audiomentations
+pandas
